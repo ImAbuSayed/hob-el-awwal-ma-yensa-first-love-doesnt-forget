@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 26, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/hob-el-awwal-ma-yensa-first-love-doesnt-forget/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Music Rights & Licensing for Hob El Awwal Ma Yensa – First Love Doesn't Forget](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
